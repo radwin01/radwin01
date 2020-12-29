@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Hiya, my name is Yara ✨ I am a 💻 computer scientist 💻 📈 statistician 📈 🦋 student for life 🦋](https://github.com/radwin01/radwin01/newintro.gif)
 <!--
 **radwin01/radwin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
