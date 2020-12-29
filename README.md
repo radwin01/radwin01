@@ -8,8 +8,8 @@ const yara = {
   study: "Computer Science" & "Statistics",
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
   skills: ["Python", "C", "Java", "Unix", "React", "HTML", "CSS"],
-  currently_learning: ["C++", "Javascript", "chess"],
-  status: "very happy to meet you!"
+  currently_learning: ["C++", "Javascript", "Chess"],
+  status: "Hello there! I am very happy to meet you! 😸"
 }
 ```
 
@@ -18,7 +18,7 @@ const yara = {
 <p align="start">
   <a href="https://www.linkedin.com/in/yara-r-81b044135/">
     <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/linkedin_logo.png" 
-         alt="linkedin" width="70" height="70" margin-right="1"/></a
+         alt="linkedin" width="70" height="70"/></a>
   <a href="mailto:y9rdwn0110@gmail.com">
     <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/gmail_logo.png" 
          alt="gmail" width="80" height="70"/></a>
@@ -26,6 +26,3 @@ const yara = {
     <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/facebook_logo.png"
          alt="facebook" width="80" height="80"/></a>
  </p>
-
-
-
