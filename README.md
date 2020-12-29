@@ -1,4 +1,4 @@
-![Hiya, my name is Yara ✨ I am a 💻 computer scientist 💻 📈 statistician 📈 🦋 student for life 🦋](./newintro.gif)
+![Hiya, my name is Yara ✨ I am a 💻 computer scientist 💻 📈 statistician 📈 🦋 student for life 🦋](./wide_intro.gif)
 
 ## about me 🌸
 ```javascript
