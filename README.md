@@ -8,7 +8,7 @@ const yara = {
   study: "Computer Science" & "Statistics",
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
   skills: ["Python", "C", "Java", "Unix", "React", "HTML", "CSS"],
-  currently_learning: ["C++", "Javascript", "Chess"],
+  currently_learning: ["C++", "JavaScript", "Chess"],
   status: "Hello there! I am very happy to meet you! 😸"
 }
 ```
@@ -16,7 +16,7 @@ const yara = {
 ## connect with me 🌺
 
 <p align="start">
-  <a href="https://www.linkedin.com/in/yara-r-81b044135/">
+  <a href="https://www.linkedin.com/in/yara-radwan/">
     <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/linkedin_logo.png" 
          alt="linkedin" width="70" height="70"/></a>
   <a href="mailto:y9rdwn0110@gmail.com">
