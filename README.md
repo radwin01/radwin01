@@ -9,7 +9,7 @@ const yara = {
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
   skills: ["Python", "C", "Java", "Unix", "React", "HTML", "CSS"],
   currently_learning: ["C++", "JavaScript", "Chess"],
-  status: "Hello there! I am very happy to meet you! 😸"
+  status: "New year, new me! 💯"
 }
 ```
 
