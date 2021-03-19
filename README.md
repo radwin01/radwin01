@@ -7,8 +7,8 @@ const yara = {
   age: 19,
   study: "Computer Science" & "Statistics",
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
-  skills: ["Python", "C", "Java", "Unix", "React", "HTML", "CSS"],
-  currently_learning: ["Racket/Scheme", "C++", "JavaScript", "Chess"],
+  skills: ["Python", "C", "Java", "Unix", "React.js", "HTML", "CSS", "Rackey/Scheme"],
+  currently_learning: ["Flask", "Haskell", "C++", "JavaScript", "Chess"],
   status: "New year, new me! 💯"
 }
 ```
