@@ -6,10 +6,11 @@ const yara = {
   pronouns: "she" | "her",
   age: 19,
   study: "Computer Science" & "Statistics",
+  current_coop: "Korotu Technology",
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
-  skills: ["Python", "C", "Java", "Unix", "React.js", "HTML", "CSS", "Rackey/Scheme"],
-  currently_learning: ["Flask", "Haskell", "C++", "JavaScript", "Chess"],
-  status: "New year, new me! 💯"
+  skills: ["Python", "C", "Java", "Unix", "React.js", "HTML", "CSS", "Racket/Scheme"],
+  currently_learning: ["Django", "Haskell", "JavaScript", "Chess"],
+  status: "Making the most out of summer! ☀️"
 }
 ```
 
