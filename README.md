@@ -7,6 +7,7 @@ const yara = {
   age: 20,
   study: "Computer Science" & "Statistics",
   current_coop: "Ada Support",
+  next_coop: "Uber",
   interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
   skills: ["Python", "C", "Java", "Unix", "React.js", "HTML", "CSS", "Racket/Scheme"],
   status: "Bookworming 🐛"
