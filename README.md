@@ -5,7 +5,7 @@
 const yara = {
   pronouns: "she" | "her",
   age: 21,
-  study: "Computer Science / Software Engineering"
+  study: "Computer Science / Software Engineering",
   grad_date: "May 2023",
   incoming_ft: "Uber",
   interests: ["Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
