@@ -4,13 +4,13 @@
 ```javascript
 const yara = {
   pronouns: "she" | "her",
-  age: 20,
-  study: "Computer Science" & "Statistics",
-  current_coop: "Ada Support",
-  next_coop: "Uber",
-  interests: ["Machine Learning 🤖", "Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
-  skills: ["Python", "C", "Java", "Unix", "React.js", "HTML", "CSS", "Racket/Scheme"],
-  status: "Bookworming 🐛"
+  age: 21,
+  study: "Computer Science / Software Engineering"
+  grad_date: "May 2023",
+  incoming_ft: "Uber",
+  interests: ["Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
+  languages: ["Python", "C", "Java", "Golang", "Unix", "Javascript", "HTML", "CSS"],
+  status: "I ❤️ Operating Systems!"
 }
 ```
 
