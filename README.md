@@ -4,9 +4,7 @@
 ```javascript
 const yara = {
   pronouns: "she" | "her",
-  age: 21,
-  study: "Computer Science / Software Engineering",
-  grad_date: "June 2023",
+  age: 24,
   interests: ["Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
   languages: ["Python", "C", "Java", "Golang", "Unix", "Javascript", "HTML", "CSS"],
   status: "I ❤️ Operating Systems!"
