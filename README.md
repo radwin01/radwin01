@@ -3,15 +3,15 @@
 ## about me 🌸
 ```javascript
 const yara = {
-  pronouns: "she" | "her",
   age: 24,
-  interests: ["Game Development 👾", "Biology 🧬", "Astronomy 🪐", "Make-up 💄"],
+  from: "Toronto",
   languages: ["Python", "C", "Java", "Golang", "Unix", "Javascript", "HTML", "CSS"],
-  status: "I ❤️ Operating Systems!"
+  interests: ["Reading", "Travelling", "Coding", "Sports"],
+  status: "Chronically offline"
 }
 ```
 
-## connect with me 🌺
+## links 🌺
 
 <p align="start">
   <a href="https://www.linkedin.com/in/yara-radwan/">
@@ -20,4 +20,7 @@ const yara = {
   <a href="mailto:y9rdwn0110@gmail.com">
     <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/gmail_logo.png" 
          alt="gmail" width="80" height="70"/></a>
+  <a href="https://vsco.co/lvvlyr/gallery">
+    <img src="./assets/vsco.png" 
+         alt="vsco" width="75" height="70"/></a>
  </p>
