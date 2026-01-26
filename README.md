@@ -1,4 +1,4 @@
-![Hiya, my name is Yara ✨ I am a 💻 computer scientist 💻 📈 statistician 📈 🦋 student for life 🦋](./wide_intro.gif)
+![Everything you can imagine is real. Pablo Picasso](./assets/picasso.gif)
 
 ## about me 🌸
 ```javascript
@@ -7,6 +7,7 @@ const yara = {
   from: "Toronto",
   languages: ["Python", "C", "Java", "Golang", "Unix", "Javascript", "HTML", "CSS"],
   interests: ["Reading", "Travelling", "Coding", "Sports"],
+  currently_learning: "Chess",
   status: "Chronically offline"
 }
 ```
