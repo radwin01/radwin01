@@ -16,10 +16,10 @@ const yara = {
 
 <p align="start">
   <a href="https://www.linkedin.com/in/yara-radwan/">
-    <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/linkedin_logo.png" 
+    <img src="./assets/linkedin.png" 
          alt="linkedin" width="70" height="70"/></a>
   <a href="mailto:y9rdwn0110@gmail.com">
-    <img src="https://github.com/radwin01/PersonalWebsite/blob/master/src/assets/social_media/gmail_logo.png" 
+    <img src="./assets/gmail.png" 
          alt="gmail" width="80" height="70"/></a>
   <a href="https://vsco.co/lvvlyr/gallery">
     <img src="./assets/vsco.png" 
